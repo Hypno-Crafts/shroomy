@@ -10,7 +10,7 @@
  #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
 #endif
 
-#define PIXEL_PIN   D1  // Digital IO pin connected to the NeoPixels.
+#define PIXEL_PIN   D6  // Digital IO pin connected to the NeoPixels.
 
 #define PIXEL_COUNT 30 // Number of NeoPixels
 
